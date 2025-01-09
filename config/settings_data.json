@@ -1985,12 +1985,6 @@
           "1587374410916"
         ],
         "settings": {}
-      },
-      "custom_section_JrJb36": {
-        "type": "custom-section",
-        "settings": {
-          "title": "Github"
-        }
       }
     },
     "content_for_index": [
@@ -2002,8 +1996,7 @@
       "1492424920625",
       "1585810292917",
       "1573554219823",
-      "1587204318403",
-      "custom_section_JrJb36"
+      "1587204318403"
     ],
     "blocks": {
       "16428855274652595211": {
