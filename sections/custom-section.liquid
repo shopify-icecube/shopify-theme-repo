@@ -1,0 +1,22 @@
+{% if section.settings.title %}
+    <h1>{{ section.settings.title }}</h1>
+{% endif %}
+
+{% schema %}
+    {
+        "name": "custom section",
+        "settings": [
+            {
+                "type": "text",
+                "id": "title",
+                "label": "Enter Title",
+                "default":"Github"
+            }
+        ],
+        "presets": [
+            {
+                "name": "custom section"
+            }
+        ]
+    }
+{% endschema %}
